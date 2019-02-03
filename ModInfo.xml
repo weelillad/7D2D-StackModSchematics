@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <ModInfo>
+        <Name value="weelillad_StackModSchematics" />
+        <Description value="Allows mod schematics to be stacked up to 100." />
+        <Author value="weelillad" />
+        <Version value="1.0.0" />
+    </ModInfo>
+</xml>
